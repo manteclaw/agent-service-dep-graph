@@ -1,0 +1,1 @@
+{"providers":{"groq":{"deprecated":[],"models":{"fast":"llama-3.1-8b-instant"}},"openrouter":{"deprecated":[],"models":{"chat":"deepseek/deepseek-chat"}}}}
